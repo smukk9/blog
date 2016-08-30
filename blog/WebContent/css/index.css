@@ -1,0 +1,13 @@
+body{
+    
+    font-family: Lato;
+    background: url("../images/landing.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+#content{
+    
+        text-align: center;
+    padding-top: 25%;
+}
