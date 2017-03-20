@@ -1,8 +1,5 @@
 Sandeepm.xyz Blog
 -
-* Repo consist of project i am working on to create a blog.As of today
-the technlogy stack planned is.
-
 #Backend:
         * Spring MVC
         * Spring Security
